@@ -18,6 +18,7 @@ var query = {
         return querys[key];
     },
     getAll: function (force) {
+        console.log("更新了1")
         if (!!force || !querys)
             querys = getQueryString();
         return Object.assign({}, querys);
