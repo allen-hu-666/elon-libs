@@ -1,0 +1,22 @@
+{
+  "name": "elon-libs",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/elon-hu/elon-libs.git"
+  },
+  "author": "elon hu",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/elon-hu/elon-libs/issues"
+  },
+  "homepage": "https://github.com/elon-hu/elon-libs#readme",
+  "dependencies": {
+    "events": "^2.0.0"
+  }
+}
