@@ -26,4 +26,4 @@ var query = {
 }
 
 query.query = query;
-module.exports = query
+module.exports = query;

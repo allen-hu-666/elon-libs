@@ -1,3 +1,7 @@
+/**
+ * cookie操作
+ * 地址 https://github.com/js-cookie/js-cookie
+ */ 
 ;(function (factory) {
 	var registeredInModuleLoader;
 	if (typeof define === 'function' && define.amd) {
